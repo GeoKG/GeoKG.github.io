@@ -1,3 +1,23 @@
-#title{
+#title {
     background-color: #ff4c68;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h2 {
+    font-family: 'Ubuntu';
+    font-weight: 300;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 1.5;
 }
