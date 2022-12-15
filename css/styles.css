@@ -30,3 +30,7 @@ h3 {
 body {
     font-family: 'Montserrat';
 }
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+}
