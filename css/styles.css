@@ -10,8 +10,9 @@ body {
 h1 {
     font-family: 'Montserrat';
     font-weight: 900;
-    font-size: 3rem;
+    font-size: 3.5rem;
     line-height: 1.5;
+    text-align: center;
 }
 
 h2 {
@@ -50,4 +51,29 @@ h3 {
     font-size: 1.2rem;
     font-weight: 300;
     font-family: 'Montserrat';
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.title-image{
+    width: 60%;
+    transform: rotate(30deg);
+}
+
+.features-icon{
+    color:#ff4c68
+}
+
+.features-title{
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: bold;
+text-align: left;
+}
+
+.features-sub{
+    font-family: 'Montserrat';
+    font-weight: lighter;
 }
