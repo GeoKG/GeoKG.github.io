@@ -53,27 +53,28 @@ h3 {
     font-family: 'Montserrat';
 }
 
-.download-button{
+.download-button {
     margin: 5% 3% 5% 0;
 }
 
-.title-image{
+.title-image {
     width: 60%;
     transform: rotate(30deg);
 }
 
-.features-icon{
-    color:#ff4c68
+.features-icon {
+    color: #ff4c68;
+    text-align: center;
 }
 
-.features-title{
+.features-title {
     font-family: 'Montserrat';
     font-size: 1.5rem;
     font-weight: bold;
-text-align: left;
+    margin: auto;
 }
 
-.features-sub{
+.features-sub {
     font-family: 'Montserrat';
     font-weight: lighter;
 }
