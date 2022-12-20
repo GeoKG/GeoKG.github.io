@@ -12,7 +12,6 @@ h1 {
     font-weight: 900;
     font-size: 3.5rem;
     line-height: 1.5;
-    text-align: center;
 }
 
 h2 {
@@ -64,8 +63,7 @@ h3 {
 
 .features-icon {
     color: #ff4c68;
-    text-align: center;
-}
+}   
 
 .features-title {
     font-family: 'Montserrat';
