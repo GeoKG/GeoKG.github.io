@@ -25,3 +25,9 @@ body {
     border: solid 5px;
     margin-left: 600px;
 }
+
+.geo-image{
+    width:20%;
+    border: solid;
+    border-radius: 5px;
+}
