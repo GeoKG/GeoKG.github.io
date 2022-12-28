@@ -1,33 +1,40 @@
 body {
     color: red;
-    background-color: violet;
+    background-color: violet; 
 }
 
-.top{
+
+img {
+
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+}
+
+div {
+    margin: 0 auto;
+}
+
+.top {
     width: 300px;
     height: 300px;
     background-color: aqua;
     border: solid 5px;
 }
 
-.mid{
+.mid {
     width: 300px;
     height: 300px;
     background-color: greenyellow;
     border: solid 5px;
-    margin-left: 300px;
 }
 
-.bottom{
+.bottom {
     width: 300px;
     height: 300px;
     background-color: aqua;
     border: solid 5px;
-    margin-left: 600px;
-}
-
-.geo-image{
-    width:20%;
-    border: solid;
-    border-radius: 5px;
 }
