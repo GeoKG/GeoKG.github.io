@@ -43,6 +43,10 @@ h3 {
     color:red
 }
 
-.navbar {
-    padding: 0 0 4.5rem;
+.details{
+    margin:0 auto;
+}
+
+.game-image{
+    width: 25%;
 }
