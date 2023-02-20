@@ -1,5 +1,9 @@
 body {
-    font-family: 'Montserrat';
+
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #title {
@@ -19,6 +23,7 @@ h2 {
     font-weight: 300;
     font-size: 3rem;
     line-height: 1.5;
+    padding-bottom: 10px;
 }
 
 h3 {
